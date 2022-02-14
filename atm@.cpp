@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
+#define ll long long int;
  
-int CustomerAccountNumber = 12345;
-int pinNumber = 54321;
+int CustomerAccountNumber = 721434;
+int pinNumber = 5432;
 int AccountBalance = 0;
  
 bool ValidateCustomerDetails() {
